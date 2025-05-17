@@ -34,12 +34,6 @@ This repository contains a comparative study of various deep learning models for
 - Per-class performance
 - Robustness under noisy conditions
 
-## 🚀 How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
 
 
 ## 📌 Abstract
